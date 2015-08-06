@@ -1,0 +1,7 @@
+state_fips,county_fips,county_name,state_name,population,latitude,longitude
+01,001,Autauga,Alabama,54571,32.500389,-86.494165
+01,003,Baldwin,Alabama,182265,30.548923,-87.762381
+01,005,Barbour,Alabama,27457,31.844036,-85.310038
+01,007,Bibb,Alabama,22915,33.030921,-87.127659
+01,009,Blount,Alabama,57322,33.955243,-86.591491
+01,011,Bullock,Alabama,10914,32.116327,-85.701192
