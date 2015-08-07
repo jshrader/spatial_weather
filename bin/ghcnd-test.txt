@@ -1,0 +1,11 @@
+CA002100605  64.3833 -140.6000  335.0 YT FORTY MILE                                  
+CA002100611  61.3333 -129.3333  780.0 YT FRANCES LAKE                                
+CA002100615  60.6167 -134.4500  701.0 YT GOLDEN HORN                                 
+CA002100620  60.7500 -135.2167 1433.0 YT HAECKEL HILL TOWER                          
+CA002100627  60.8167 -137.7333  846.0 YT HAINES APPS #4                              
+CA002100630  60.7667 -137.5833  595.0 YT HAINES JUNCTION                        71505
+CA002100631  60.7500 -137.5000  596.0 YT HAINES JUNCTION YTG                         
+CA002100635  69.5000 -139.2500    5.0 YT HERSCHEL ISLAND                             
+CA002100636  69.5667 -138.9167    1.0 YT HERSCHEL ISLAND                        71501
+CA002100638  62.4667 -129.2000 1564.0 YT HOWARDS PASS                                
+CA002100639  63.1833 -130.1667 1494.0 YT HUDSON BAY MINE                             
